@@ -1,2 +1,2 @@
-# me 👽
+# me - hello! 👽
 simple portfolio
