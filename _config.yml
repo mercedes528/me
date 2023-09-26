@@ -1,2 +1,5 @@
 theme: minima
 skin: solarized light
+header_pages:
+  - about.md
+  - research.md
