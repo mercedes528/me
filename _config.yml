@@ -1,10 +1,9 @@
 title: Mercedes Vasquez
 author:
-  name: Mercedes Vasquez
+  name: Github user
   email: mmvasquez@berkeley.edu
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-mineral physics, planetary interiors, high-pressure physics, material science 
 
